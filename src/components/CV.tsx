@@ -24,6 +24,7 @@ export default function CV() {
     const year = date.getFullYear();
     return `${month} ${year}`;
   };
+  //{//}
 
   return (
     <div className="container col card mt-4">
